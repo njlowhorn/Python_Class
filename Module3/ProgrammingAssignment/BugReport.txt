@@ -1,0 +1,4 @@
+9.2
+
+Error: Was trying loop through the length of the odds list
+Solution: Had to iterate through the list
