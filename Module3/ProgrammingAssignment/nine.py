@@ -1,8 +1,8 @@
 # Python V 3.9.0
 
 def good():
-        character_list = ["Harry", "Ron", "Hermione"]
-        return character_list
+    character_list = ["Harry", "Ron", "Hermione"]
+    return character_list
 
 def get_odds():
     odds = []
