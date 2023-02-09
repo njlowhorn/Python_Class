@@ -1,0 +1,3 @@
+16.8
+Error: The insert query kept showing an error
+Solution: Had to place quotation marks around the TEXT variables
