@@ -3,4 +3,4 @@ Solution: Had to convert them to a string
 Error: Couldn't get multiple books
 Solution: Had to use yield instead of return
 Error: Couldn't use POST method
-Solution: Had to froce the request
+Solution: Had to force the request
