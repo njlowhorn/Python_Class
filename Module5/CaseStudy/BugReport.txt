@@ -1,0 +1,4 @@
+Error: Could make input into a list
+Solution: Had to split up the string and iterate through it
+Error: Couldn't display graph with matplotlib
+Solution: Had to use termplotlib to show the chart in the terminal instead
