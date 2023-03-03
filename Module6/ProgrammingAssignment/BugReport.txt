@@ -2,6 +2,6 @@
 Error - Couldn't parse through the date string
 Solution - Had to use time.strptime
 
-15.8
+15.1
 Error - Couldn't get the current process time from each function
 Solution - Had to subtract the start time of the program from the end time of each function
